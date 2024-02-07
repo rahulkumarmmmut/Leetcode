@@ -14,6 +14,7 @@ class Solution:
             else:
                 a.append(False)
         return a
+        
 
 
 
