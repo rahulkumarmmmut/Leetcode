@@ -10,3 +10,4 @@ class Solution:
         else:
             s = s + word2[shorts:]
         return s
+
